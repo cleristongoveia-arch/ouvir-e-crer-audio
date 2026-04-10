@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960554854428",
+    "project_id": "ouvir-e-crer-audio",
+    "storage_bucket": "ouvir-e-crer-audio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960554854428:android:4cbe9f749775ab14f317d9",
+        "android_client_info": {
+          "package_name": "com.ouvir.crer.audio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86-WxtB3Hd0Isk2I_rj0j0_JAfGXVjy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
