@@ -1,0 +1,16 @@
+name: ouvir_crer_audio
+description: Sistema de tarefas para equipe de áudio de igrejas
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.0
+  cloud_firestore: ^4.13.0
+  firebase_auth: ^4.15.0
+  speech_to_text: ^6.6.0
+
+flutter:
+  uses-material-design: true
